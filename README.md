@@ -59,12 +59,16 @@
 
   1.Log Interaction Tool
     Stores doctor interaction details securely.
+    
   2.Edit Interaction Tool
     Allows updating incorrect or incomplete entries.
+    
   3.Summarization Tool
     Converts raw notes into concise summaries.
+    
   4.Classification Tool
     Categorizes interaction intent (Follow-up, Sales, Feedback, etc.).
+    
   5.Follow-up Generator Tool
     Generates intelligent next-step actions based on interaction data.
 
@@ -87,9 +91,13 @@ Final Output
 ## 🖥️ Application Features
 
 -Clean and responsive UI
+
 -Real-time AI agent execution
+
 -FastAPI Swagger documentation
+
 -Modular and scalable codebase
+
 -Easy to extend with new tools
 
 ## 🚀 How to Run the Project
@@ -100,6 +108,7 @@ Final Output
    venv\Scripts\activate
    pip install -r requirements.txt
    uvicorn main:app --reload
+   
  Backend runs at:
 👉 http://127.0.0.1:8000
 
@@ -107,6 +116,7 @@ Final Output
     cd frontend
     npm install
     npm start
+    
  Frontend runs at:
 👉 http://localhost:3000
 
@@ -121,17 +131,25 @@ Final Output
 ## 🎯 Use Cases
 
 -Healthcare CRM automation
+
 -AI agent experimentation
+
 -Tool-based AI workflows
+
 -Full-stack AI application demo
 
 ## 📌 Why This Project Matters
 
 -This project showcases:
+
    1.Practical AI agent design
+   
    2.Clean frontend-backend integration
+   
    3.Real-world automation thinking
+   
    4.Industry-relevant architecture
+   
 -It’s not just a demo — it’s how modern AI systems are built.
 
 ## 👩‍💻 Author
