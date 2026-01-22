@@ -6,37 +6,57 @@
 ## 🧠 Problem Statement
 
 -In healthcare CRM systems, interactions with doctors are often:
+
   Manually logged
+  
   Poorly summarized
+  
   Hard to analyze
+  
   Time-consuming to follow up
+  
   This leads to inefficiency and missed insights.
 
 ## 💡 Solution
 
 -This project introduces an AI CRM Agent that:
+
 -Accepts raw interaction data
+
 -Uses AI tools to process it intelligently
+
 -Produces structured, actionable outputs
+
 -All through a clean React frontend and a FastAPI backend.
 
 ## ⚙️ Tech Stack
 
 -Frontend
+
 -React.js
+
 -CSS (custom styling)
+
 -Fetch API
+
 -Backend
+
 -FastAPI
+
 -Pydantic
+
 -Python
+
 -AI Agent Logic
+
 -Tool-based orchestration
+
 -Modular agent flow (Log → Analyze → Act)
 
 ## 🧩 AI Agent Tools Implemented
 
 -The agent uses multiple tools to handle CRM tasks:
+
   1.Log Interaction Tool
     Stores doctor interaction details securely.
   2.Edit Interaction Tool
