@@ -143,10 +143,10 @@ Final Output
 ## 📸 Screenshots
 
 🔹 AI Agent Output
-![Agent Output](screenshots/agent-output.png)
+![Agent Output](Screenshots/Agent Output.png)
 
 🔹 FastAPI Swagger UI
-![Swagger](screenshots/swagger.png)
+![Swagger](Screenshots/Swagger.png)
 
 ## 🎯 Use Cases
 
