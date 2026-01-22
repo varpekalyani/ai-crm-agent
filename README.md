@@ -1,4 +1,5 @@
 ## 🤖 AI CRM Agent – Healthcare Interaction Automation
+
 -An AI-powered CRM Agent built to automate, analyze, and optimize healthcare professional (HCP) interactions using intelligent tools and agent-based workflows.
 
 -This project demonstrates how AI agents can log, summarize, classify, and generate follow-ups for CRM data — reducing manual effort and improving decision-making.
@@ -114,20 +115,29 @@ Final Output
 
 -Backend
    cd backend
+   
    python -m venv venv
+   
    venv\Scripts\activate
+   
    pip install -r requirements.txt
+   
    uvicorn main:app --reload
    
  Backend runs at:
+ 
 👉 http://127.0.0.1:8000
 
 -Frontend
-    cd frontend
-    npm install
-    npm start
+
+  cd frontend
+  
+  npm install
+  
+  npm start
     
  Frontend runs at:
+ 
 👉 http://localhost:3000
 
 ## 📸 Screenshots
@@ -165,7 +175,9 @@ Final Output
 ## 👩‍💻 Author
 
 Kalyani Varpe
+
 Computer Engineering (3rd Year)
+
 AI & Full-Stack Development Enthusiast
     
 
