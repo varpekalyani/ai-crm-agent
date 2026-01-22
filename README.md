@@ -75,15 +75,25 @@
 ## 🔁 Agent Workflow
 
 User Input
+
    ↓
+   
 Log Interaction
+
    ↓
+   
 Summarize Notes
+
    ↓
+   
 Classify Interaction
+
    ↓
+   
 Generate Follow-up
+
    ↓
+   
 Final Output
 
 -This mirrors real-world AI agent pipelines used in production systems.
