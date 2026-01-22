@@ -1,4 +1,4 @@
-🤖 AI CRM Agent – Healthcare Interaction Automation
+## 🤖 AI CRM Agent – Healthcare Interaction Automation
 
 -An AI-powered CRM Agent built to automate, analyze, and optimize healthcare professional (HCP) interactions using intelligent tools and agent-based workflows.
 -This project demonstrates how AI agents can log, summarize, classify, and generate follow-ups for CRM data — reducing manual effort and improving decision-making.
@@ -12,7 +12,7 @@
   Time-consuming to follow up
   This leads to inefficiency and missed insights.
 
-##💡 Solution
+## 💡 Solution
 
 -This project introduces an AI CRM Agent that:
 -Accepts raw interaction data
@@ -20,7 +20,7 @@
 -Produces structured, actionable outputs
 -All through a clean React frontend and a FastAPI backend.
 
-##⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 -Frontend
 -React.js
@@ -34,7 +34,7 @@
 -Tool-based orchestration
 -Modular agent flow (Log → Analyze → Act)
 
-##🧩 AI Agent Tools Implemented
+## 🧩 AI Agent Tools Implemented
 
 -The agent uses multiple tools to handle CRM tasks:
   1.Log Interaction Tool
@@ -48,7 +48,7 @@
   5.Follow-up Generator Tool
     Generates intelligent next-step actions based on interaction data.
 
-##🔁 Agent Workflow
+## 🔁 Agent Workflow
 
 User Input
    ↓
@@ -64,7 +64,7 @@ Final Output
 
 -This mirrors real-world AI agent pipelines used in production systems.
 
-##🖥️ Application Features
+## 🖥️ Application Features
 
 -Clean and responsive UI
 -Real-time AI agent execution
@@ -72,7 +72,7 @@ Final Output
 -Modular and scalable codebase
 -Easy to extend with new tools
 
-##🚀 How to Run the Project
+## 🚀 How to Run the Project
 
 -Backend
    cd backend
@@ -98,14 +98,14 @@ Final Output
 🔹 FastAPI Swagger UI
 ![Swagger](screenshots/swagger.png)
 
-##🎯 Use Cases
+## 🎯 Use Cases
 
 -Healthcare CRM automation
 -AI agent experimentation
 -Tool-based AI workflows
 -Full-stack AI application demo
 
-##📌 Why This Project Matters
+## 📌 Why This Project Matters
 
 -This project showcases:
    1.Practical AI agent design
@@ -114,7 +114,7 @@ Final Output
    4.Industry-relevant architecture
 -It’s not just a demo — it’s how modern AI systems are built.
 
-##👩‍💻 Author
+## 👩‍💻 Author
 
 Kalyani Varpe
 Computer Engineering (3rd Year)
